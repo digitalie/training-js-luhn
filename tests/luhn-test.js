@@ -7,11 +7,11 @@ test('Card Number Check', t => {
     t.plan(Object.keys(cards).length + brokens.length);
 
     for (var card in cards) {
-        t.ok(functions.check(card), 'correct card number check');
+        t.ok(functions.check(card), card + ' correct card number check');
     }
 
-    for (var broken in brokens) {
-        t.notOk(functions.check(broken), 'random number check');
+    for (var id in brokens) {
+        t.notOk(functions.check(brokens[id]), brokens[id] + ' random number check');
     }
 
     t.end();
