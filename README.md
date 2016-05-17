@@ -6,7 +6,7 @@
 ><br><br>
 > -- [Wikipedia](https://en.wikipedia.org/wiki/Luhn_algorithm)
 
-There are many descriptions of the algorithm e.g. [this one](https://www.rosettacode.org/wiki/Luhn_test_of_credit_card_numbers)
+There are many descriptions of Luhn algorithm in the Internet e.g. [this one](https://www.rosettacode.org/wiki/Luhn_test_of_credit_card_numbers)
 
 ## What to do
 
