@@ -23,3 +23,8 @@ Write your code in `src/index.js` next to `// TODO` comment.
 3. Run `npm test` to test your algorithm with test data
 4. Implement Luhn algorithm to pass all the tests
 
+## Prerequisites
+
+1. Basic understanding of programming
+2. Node.js installed on you machine
+3. Basic git skills to clone this repository
